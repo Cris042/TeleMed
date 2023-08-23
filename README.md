@@ -22,5 +22,8 @@ Durante o desenvolvimento deste projeto, fui responsável pelas seguintes tarefa
 - Implementação das funcionalidades de login e agendamento e gerenciamento de consultas.
 - Colaboração com a equipe no desenvolvimento integrado do sistema.
 
+## Artefatos Produzidos 
+- https://drive.google.com/file/d/1kinScvOvosPM703RANVXfnAgQbNHFjy0/view?usp=drive_link
+
 
 
