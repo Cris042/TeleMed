@@ -23,7 +23,7 @@ Durante o desenvolvimento deste projeto, fui responsável pelas seguintes tarefa
 - Colaboração com a equipe no desenvolvimento integrado do sistema.
 
 ## Artefatos Produzidos 
-- https://drive.google.com/file/d/1kinScvOvosPM703RANVXfnAgQbNHFjy0/view?usp=drive_link
+- [https://drive.google.com/file/d/1kinScvOvosPM703RANVXfnAgQbNHFjy0/view?usp=drive_link](https://drive.google.com/file/d/1SJjJyJbjxAsUoWU43jOYBOdyrc7sL8tJ/view?usp=drive_link)
 
 
 
